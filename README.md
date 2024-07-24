@@ -1,2 +1,2 @@
 # yol_arkadasim
-deneme
+If-Else ve döngü yapıları kullanılarak oluşturuldu.
